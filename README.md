@@ -12,3 +12,6 @@ git diff
 git add -A
 git commit -a
 git push -f origin master
+
+4. 新建分支
+git checkout -b ltgg
